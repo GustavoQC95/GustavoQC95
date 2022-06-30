@@ -5,7 +5,7 @@
 
 - 🌱 Estou em evolução pra se tornar **Dev Fullstack**
 
-- 💬 Me perguntar algo sobre **C/C++,Iot, Industria 4.0, Dados.**
+- 💬 Me pergunte algo sobre **C/C++,Iot, Industria 4.0,Inteligencia artificial, Dados.**
 
 - 📫 entre no contato pelo insta **@Gustavoc95**
 
